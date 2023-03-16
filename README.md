@@ -10,7 +10,7 @@ For ISART Digital
 ## **Project description :**
 We animated a skeleton with and without skinning. We used a pre-made engine and animations (run and walk).
 
-![Screenshot](Screens/screenshot.png)
+![png](./Screens/Screenshot.png)
 
 ## **Hardest part :**
 - Matrix calculations
